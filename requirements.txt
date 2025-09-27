@@ -1,0 +1,10 @@
+numpy 
+matplotlib
+scipy
+fastmcp
+flet
+streamlit
+requests
+openai
+gradio  
+python-dotenv
