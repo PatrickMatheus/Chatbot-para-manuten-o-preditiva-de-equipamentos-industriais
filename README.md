@@ -69,5 +69,7 @@ Para fazer o teste da fase atual do projeto siga os passos a seguir:
      ``` bash
      https://nodejs.org/pt/download
      ```
-  6. Execute os exemplos que quiser.
-  
+   Para os testes com a LLM lembre-se de colocar a sua API_KEY da OPENAI_PLATAFORM nos arquivos .env:
+    ```
+    https://platform.openai.com/login
+    ```
